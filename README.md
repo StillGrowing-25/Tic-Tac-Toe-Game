@@ -1,7 +1,7 @@
 # Tic-Tac-Toe 🎮
 
 A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
-
+![Tic Tac Toe Screenshot](screenshot.png)
 ## Features
 
 * Two-player gameplay (X and O)
