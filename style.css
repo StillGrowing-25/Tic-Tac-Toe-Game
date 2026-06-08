@@ -16,7 +16,7 @@ body{
     display: flex;
     align-items: center;
 }
-.game-container{
+.game{
     height: 60vmin;
     width: 60vmin;
     display: flex;
@@ -45,7 +45,7 @@ body{
     color: #fff;
     cursor: pointer;
 }
-#winner-msg{
+#winner{
     color: #fff;
     font-size: 8vmin;
 }
@@ -57,7 +57,7 @@ body{
     background-color: #111844;
     color: #fff;
 }
-.msg{
+.winnerContainer{
     height: 100vmin;
     display: flex;
     flex-direction: column;
@@ -77,6 +77,6 @@ body{
 
 .reset-button:hover,
 .newgame-button:hover{
-    opacity: 0.9;
+    opacity: 0.7;
     cursor: pointer;
 }
